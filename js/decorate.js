@@ -25,7 +25,7 @@ $(document).ready(function(){
   });
 
   $('#watch-tv').click(function(){
-    //code solution here to turn the tv on
+    //code solution here to turn the tv on comment
   });
 
 
